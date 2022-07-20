@@ -7,7 +7,7 @@
 
 This is the official repository of the **Semantic Query Network (SQN)**. For technical details, please refer to:
 
-**SQN: Weakly-Supervised Semantic Segmentation of Large-Scale 3D Point Clouds with 1000x Fewer Labels** <br />
+**SQN: Weakly-Supervised Semantic Segmentation of Large-Scale 3D Point Clouds** <br />
 [Qingyong Hu](https://qingyonghu.github.io/), [Bo Yang](https://yang7879.github.io/), [Guangchi Fang]()
 , [Ales Leonardis](https://www.cs.bham.ac.uk/~leonarda/),
 [Yulan Guo](http://yulanguo.me/), [Niki Trigoni](https://www.cs.ox.ac.uk/people/niki.trigoni/)
@@ -56,7 +56,7 @@ Quantitative results achieved by our SQN:
 
 ### (3) Sparse Annotation Demo
 
-<p align="center"> <a href="https://youtu.be/N0UAeY31msY"><img src="imgs/Demo_cover.png" width="80%"></a> </p>
+<p align="center"> <a href="https://youtu.be/N0UAeY31msY"><img src="imgs/Demo_cover.png" width="70%"></a> </p>
 
 
 ### Citation
